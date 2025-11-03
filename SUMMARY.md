@@ -10,3 +10,5 @@
       * [What is Cassandra](database/nosql/cassandra/what-is-cassandra.md)
       * [How to use](database/nosql/cassandra/how-to-use.md)
   * [RDBMS](database/rdbms.md)
+* [Python](python/README.md)
+  * [pip & conda](python/pip-and-conda.md)
