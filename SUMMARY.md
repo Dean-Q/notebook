@@ -16,3 +16,4 @@
 ## Java
 
 * [Specification](java/specification.md)
+* [Multiple Feign Client](java/multiple-feign-client.md)
