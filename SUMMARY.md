@@ -17,3 +17,7 @@
 
 * [Specification](java/specification.md)
 * [Multiple Feign Client](java/multiple-feign-client.md)
+
+## Coding issue playground
+
+* [Reduce high frequency access to third-party interfaces](coding-issue-playground/reduce-high-frequency-access-to-third-party-interfaces.md)
