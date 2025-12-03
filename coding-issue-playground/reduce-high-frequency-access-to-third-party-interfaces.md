@@ -108,3 +108,23 @@ First, request lightweight interface for version number first → Request big da
 
 But it's hard because we're asking for someone else's, not ours.
 
+### Architecture-level frequency reduction
+
+#### Sync Service pattern
+
+the core thinking is add a middle level, create a sync service that is solely responsible for accessing the third-party interface
+
+what does this sync service can do:
+
+* Throttling (e.g., up to 2 times per second)
+* caching
+* Fail fast
+* Aggregate updates
+
+also can add queue into the architecture, if sync service noticed that data changed -> send msg to the queue(kafka/RabbitMQ) ->other service can get msg from queue, don't need to request third-party api.
+
+### Batch API requests
+
+if one product has one price, we can send a set of request to query multiple product's price, rather than each product trigger a request to get price.
+
+the strategy is `The N requests in each timing period are merged into 1 batch request`
