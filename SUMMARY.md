@@ -1,17 +1,22 @@
 # Table of contents
 
-* [Linux](README.md)
-  * [Directory Structure](readme/directory-structure.md)
-  * [Commands](readme/commands.md)
-  * [Shell Script](readme/shell-script.md)
-* [DataBase](database/README.md)
-  * [NoSQL](database/nosql/README.md)
-    * [Cassandra](database/nosql/cassandra/README.md)
-      * [What is Cassandra](database/nosql/cassandra/what-is-cassandra.md)
-      * [How to use](database/nosql/cassandra/how-to-use.md)
-  * [RDBMS](database/rdbms.md)
-* [Python](python/README.md)
-  * [pip & conda](python/pip-and-conda.md)
+## Linux
+
+* [Directory Structure](README.md)
+* [Commands](linux/commands.md)
+* [Shell Script](linux/shell-script.md)
+
+## Database
+
+* [NoSQL](database/nosql/README.md)
+  * [Cassandra](database/nosql/cassandra/README.md)
+    * [What is Cassandra](database/nosql/cassandra/what-is-cassandra.md)
+    * [How to use](database/nosql/cassandra/how-to-use.md)
+* [RDBMS](database/rdbms.md)
+
+## Python
+
+* [pip & conda](python/pip-and-conda.md)
 
 ## Java
 
