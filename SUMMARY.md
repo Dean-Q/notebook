@@ -26,3 +26,4 @@
 ## Coding issue playground
 
 * [Reduce high frequency access to third-party interfaces](coding-issue-playground/reduce-high-frequency-access-to-third-party-interfaces.md)
+* [Parallel calls to feignClient](coding-issue-playground/parallel-calls-to-feignclient.md)
