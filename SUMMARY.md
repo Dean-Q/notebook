@@ -2,10 +2,9 @@
 
 ## Linux
 
-* [Directory Structure](README.md)
-* [Commands](linux/commands.md)
+* [Commands](README.md)
 * [Shell Script](linux/shell-script.md)
-* [Directory](linux/directory.md)
+* [Directory Structure](linux/directory.md)
 
 ## Database
 
