@@ -5,6 +5,7 @@
 * [Directory Structure](README.md)
 * [Commands](linux/commands.md)
 * [Shell Script](linux/shell-script.md)
+* [Directory](linux/directory.md)
 
 ## Database
 
