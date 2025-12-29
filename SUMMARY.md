@@ -1,10 +1,14 @@
 # Table of contents
 
+## Intro
+
+* [intro](README.md)
+
 ## Linux
 
-* [Commands](README.md)
-* [Shell Script](linux/shell-script.md)
 * [Directory Structure](linux/directory.md)
+* [Commands](<README (1).md>)
+* [Shell Script](linux/shell-script.md)
 
 ## Database
 
