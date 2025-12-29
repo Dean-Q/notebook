@@ -7,8 +7,8 @@
 ## Linux
 
 * [Directory Structure](linux/directory.md)
-* [Commands](<README (1).md>)
 * [Shell Script](linux/shell-script.md)
+* [Commands](linux/commands.md)
 
 ## Database
 
